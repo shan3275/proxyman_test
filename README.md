@@ -4,4 +4,5 @@ proxyman test script
 
 ## Index
 
-- [200OK](./code/response-200.js)
+- [200](./code/response-200.js)
+- [302](./code/response-302.js)
